@@ -1,2 +1,2 @@
-# hello-world
-A test Repository for all people in world
+# Letter Recognition With Simple Neural Network
+A simple implementation of perceptron network in Matlab for letter recognition.
